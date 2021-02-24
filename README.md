@@ -7,6 +7,7 @@
 3. 화면 밝기를 최저로 낮춘다. 
 4. 소리를 최대로 키워둔다. 
 5. 충전기를 연결하고 잔다.
+6. **q 키를 눌러 알람 종료**
 
 음악 (alarm.mp3): Sonic Generations - Rooftop Run - Classic Remix
 
